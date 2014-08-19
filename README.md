@@ -1,7 +1,7 @@
 CSS3-System-Sketch
 ==================
 
-CSS3 animated solar system in a sketch design using CSS3 animate capibilites. Inspired by  Workes best in Chrome, tested in latest versions of Firefox and IE. 
+CSS3 animated solar system in a sketch design using CSS3 animate capibilites. Inspired by a codeacademy tutorial. Works best in Chrome, tested in latest versions of Firefox and IE. 
 
 ## Design notes
 
