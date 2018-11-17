@@ -3,7 +3,7 @@
 body {
     width: 100%;
     height: 100%;
-    background-image: url(/img/gg66203835.jpg);
+    background-image: url(./img/gg66203835.jpg);
 }
 
 #solarSketch {
@@ -469,7 +469,7 @@ body {
   animation: spin-left 150s linear infinite;
 }
 
-#Planet4-1-label {
+=#Planet4-1-label {
   position: absolute;
   top:  0;
   left: 50%;
